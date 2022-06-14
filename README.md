@@ -1,5 +1,7 @@
 # cafe_finder
 
+![Screenshot_20220614-083304](https://user-images.githubusercontent.com/78877010/173501120-d9dc47ee-4be6-475b-98b5-5bff087fd4f2.png)
+
 A new Flutter project.
 
 ## Getting Started
